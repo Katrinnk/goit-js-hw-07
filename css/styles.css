@@ -3,10 +3,6 @@
   --animation-duration: 250ms;
 }
 
-li{
-  list-style-type: none;
-}
-
 
 .gallery {
   display: grid;
